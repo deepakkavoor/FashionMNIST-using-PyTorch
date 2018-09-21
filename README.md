@@ -6,6 +6,6 @@ CONV -> ReLU -> MAXPOOL -> CONV -> ReLU -> MAXPOOL -> FC -> FC
 
 ## Note:
 If GitHub fails to render the jupyter notebook, please paste this link :
-[https://github.com/deepakkavoor/FashionMNIST-using-PyTorch/blob/master/notebook.ipynb](https://github.com/deepakkavoor/FashionMNIST-using-PyTorch/blob/master/notebook.ipynb) 
+```https://github.com/deepakkavoor/FashionMNIST-using-PyTorch/blob/master/notebook.ipynb``` 
 at this [<b>notebook viewer.</b>](https://nbviewer.jupyter.org/)
 
